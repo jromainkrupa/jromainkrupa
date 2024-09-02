@@ -6,7 +6,7 @@ I ❤️ Ruby meet other developers, Indie Hackers and other product builders.
 - 🍏 Building [Yoopla](https://www.yoopla.io/) a SaaS to centralize all your templates in one place and access them anywhere with a command palette
 - 💎 I'm the creator of [RubyOnRailsJobs](https://www.ruby-on-rails-jobs.com/en) a Job board and developer directory dedicated to Ruby.
 - 👨‍🏫 teacher at [Le Wagon](https://www.lewagon.com/fr)
-- Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1] A chrome extension to display your life in circles
+- Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1) A chrome extension to display your life in circles
 - 🍷 Built and sold a wine company 'Vins et Santé'
 
 ### I failed a lot of projects ! 
