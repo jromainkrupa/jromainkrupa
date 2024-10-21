@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-I ❤️ Ruby meet other developers, Indie Hackers and other product builders.
+I ❤️ Ruby on rails, Indie Hackers and other product builders.
 
 - 💻 I’m currently working at [Komin.io](https://fr.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
-- 🍏 Building [Yoopla](https://www.yoopla.io/) a SaaS to centralize all your templates in one place and access them anywhere with a command palette
-- 💎 I'm the creator of [RubyOnRailsJobs](https://www.ruby-on-rails-jobs.com/en) a Job board and developer directory dedicated to Ruby.
+- Previously worked at Oqoro as Fullstack Ruby Dev
+- 🍏 Built [Yoopla](https://www.yoopla.io/) a SaaS to centralize all your templates in one place and access them anywhere with a command palette
+- 💎 Created [RubyOnRailsJobs](https://www.ruby-on-rails-jobs.com/en) a Job board and developer directory dedicated to Ruby. 
 - 👨‍🏫 teacher at [Le Wagon](https://www.lewagon.com/fr)
-- Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1) A chrome extension to display your life in circles
+- 🔴 Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1) A chrome extension to display your life in circles
 - 🍷 Built and sold a wine company 'Vins et Santé'
 
 ### I failed a lot of projects ! 
 - 🚀 [Yoopla ATS](https://www.yoopla-ats.com/en) a simple CRM + ATS + Chrome extension dedicated to freelance recruiters.
 - A market place for bounty hunting
 - DigitalJungle Product Development Worshops
-- ... more to come 
+- ... and more failures to come 😅
 
 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/jromaink/)
  
