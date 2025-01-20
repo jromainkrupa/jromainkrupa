@@ -4,6 +4,7 @@ I ❤️ Ruby on rails, Indie Hackers and other product builders.
 
 - 💻 I’m currently working at [Komin.io](https://www.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
 - Previously worked at Oqoro as Fullstack Ruby Dev
+- 🕷️ Built [Yoopla](https://www.datascrape.ai) a Scraping tool for simple data extraction with AI. 
 - 🍏 Built [Yoopla](https://www.yoopla.io/) a SaaS to centralize all your templates in one place and access them anywhere with a command palette
 - 💎 Created [RubyOnRailsJobs](https://www.ruby-on-rails-jobs.com/en) a Job board and developer directory dedicated to Ruby. 
 - 👨‍🏫 teacher at [Le Wagon](https://www.lewagon.com/fr)
