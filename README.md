@@ -4,6 +4,7 @@ I ❤️ Ruby on rails, Indie Hackers and other product builders.
 
 - 💻 I’m currently working at [Komin.io](https://www.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
 - Previously worked at Oqoro as Fullstack Ruby Dev
+- 🔥 building [techlens.app](https://www.techlens.app) for a tech lookup API Indy hackers can use 
 - 🎯 building [rankfirst.so](https://www.rankfirst.so) to rankfirst everywhere LLMs and SEO
 - 🔗 Built [Latewebsite.com](https://www.latewebsite.com) a pipeline to scrape google and generate websites for any kind of businesses
 - 🕷️ Built [Datascrape.ai](https://www.datascrape.ai) a Scraping tool for simple data extraction with AI. 
