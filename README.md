@@ -2,7 +2,8 @@
 
 I ❤️ Ruby on rails, Indie Hackers and other product builders.
 
-- 💻 I’m currently working at [Komin.io](https://www.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
+- 🦊 Working as GTM engineer at [Hunter.io](https://hunter.io/) helping builders get clients
+- 💻 worked at [Komin.io](https://www.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
 - Previously worked at Oqoro as Fullstack Ruby Dev
 - 🔥 building [techlens.app](https://www.techlens.app) for a tech lookup API Indy hackers can use 
 - 🎯 building [rankfirst.so](https://www.rankfirst.so) to rankfirst everywhere LLMs and SEO
