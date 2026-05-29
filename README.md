@@ -5,16 +5,16 @@ I ❤️ Ruby on rails, Indie Hackers and other product builders.
 - 🦊 Working as GTM engineer at [Hunter.io](https://hunter.io/) helping builders get clients
 - 💻 worked at [Komin.io](https://www.komin.io/) as Fullstack Developer to build a SaaS to help employees share their knowledge across their organisation.
 - Previously worked at Oqoro as Fullstack Ruby Dev
-- 🔥 building [techlens.app](https://www.techlens.app) for a tech lookup API Indy hackers can use 
-- 🎯 building [rankfirst.so](https://www.rankfirst.so) to rankfirst everywhere LLMs and SEO
-- 🔗 Built [Latewebsite.com](https://www.latewebsite.com) a pipeline to scrape google and generate Jekyll websites on the fly with AI
-- 🕷️ Built [Datascrape.ai](https://www.datascrape.ai) a Scraping tool for simple data extraction with AI. 
+- ⛪︎ Build [contrefort.io](https://contrefort.io) local website & SEO agency for Small companies
 - 💎 Built [RubyOnRailsJobs](https://www.ruby-on-rails-jobs.com/en) a Job board and developer directory dedicated to Ruby. 
-- 👨‍🏫 teacher at [Le Wagon](https://www.lewagon.com/fr)
-- 🔴 Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1) A chrome extension to display your life in circles a bit dark 😅
+- 👨‍🏫 teacher at [Le Wagon](https://www.lewagon.com/fr) Bootcamp ruby to learn how to code
+- 🔴 Built [LifeCircles](https://chromewebstore.google.com/detail/life-circles/bpejdhmkdegepchibgikjfhnhbnkdfnk?pli=1) A chrome extension to display your life in circles... a bit dark 😅
 - 🍷 Built and sold a wine company 'Vins et Santé'
 
 ### I failed a lot of projects ! 
+- 🔥 built & killed [techlens.app](https://www.techlens.app) for a tech lookup API Indy hackers can use 
+- 🎯 built & killed [rankfirst.so](https://www.rankfirst.so) to rankfirst everywhere LLMs and SEO
+- 🕷️ Built Built & killed [Datascrape.ai](https://www.datascrape.ai) a Scraping tool for simple data extraction with AI. 
 - 🍏 Built Yoopla a SaaS to centralize all your templates in one place and access them anywhere with an Electron command palette
 - 🚀 Yoopla ATS a simple CRM + ATS + Chrome extension dedicated to freelance recruiters.
 - A market place for bounty hunting
